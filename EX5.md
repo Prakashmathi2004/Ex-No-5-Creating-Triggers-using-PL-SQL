@@ -29,8 +29,9 @@ CREATE TABLE sal_log (
   update_date DATE
 );
 -- Insert the values in the employee table
-insert into employed values(1,'dulquer','IT',1000000);
-insert into employed values(2,'amal','SALES',500000);
+insert into employed values(1,'PRAVEEN','IT',1000000);
+insert into employed values(2,'PRAKASH','SALES',500000);
+
 
 ```
 
