@@ -87,7 +87,8 @@ SELECT * FROM sal_log;
 ```
 
 ### Output:
-![image](https://github.com/harinidq/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113497680/ea20f27e-6ebb-425d-8f26-eeed43e38d89)
+<img width="507" alt="image" src="https://github.com/Prakashmathi2004/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118350045/729e9dd3-b1da-422a-ad27-57d7efb76564">
+
 
 ### Result:
 Thus , the output has been successfully verified.
