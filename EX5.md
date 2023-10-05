@@ -71,12 +71,12 @@ BEGIN
 END;
 /
 -- Insert the values in the employee table
-insert into employed values(1,'dulquer','IT',1000000);
-insert into employed values(2,'amal','SALES',500000);
+insert into employed values(1,'PRAKASH','IT',1000000);
+insert into employed values(2,'PRAVEEN','SALES',500000);
 
 -- Update the salary of an employee
 UPDATE employed
-SET salary = 60000
+SET salary = 55000
 WHERE empid = 1;
 -- Display the employee table
 SELECT * FROM employed;
